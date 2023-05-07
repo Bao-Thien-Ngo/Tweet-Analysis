@@ -1,5 +1,5 @@
 # Tweet-Analysis
 
-Name Bao Ngo
+Bao Ngo
 
 Assignment 3
