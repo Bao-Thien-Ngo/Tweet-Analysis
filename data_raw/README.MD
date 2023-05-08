@@ -4,4 +4,4 @@ The dataset has the following column:
 - Location: location of where the tweet is made.
 - TweetAt: time when the tweet is made.
 - OriginalTweet: original content of the tweet.
-- Sentiment: feeling that tweet brings to you (extremely negative, negative, neutral, positive, extremely positive)
+- Sentiment: feeling that tweet brings to you (extremely negative, negative, neutral, positive, extremely positive.)
